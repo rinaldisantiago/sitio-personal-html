@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(218, 107, 92, 0.966);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: azure;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    
+}
+
+h2{
+    color: rgb(252, 252, 252);
+}
+
+h2.cv{
+    color: black;
+}
+
+h3{
+    color: whitesmoke;
+    background-color: maroon;
+    border: 2px solid;
+    text-align: center;
+
+}
+
+p{
+    color: whitesmoke;
+}
+
+ul.cv{
+    color: black;
+    background-color: brown;
+    border: 3px solid;
+}
