@@ -1,5 +1,6 @@
 body{
-    background-color: rgba(218, 107, 92, 0.966);
+    background: rgb(11,11,120);
+    background: linear-gradient(90deg, rgba(11,11,120,1) 0%, rgba(9,96,138,1) 50%, rgba(124,7,156,1) 100%);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -17,14 +18,10 @@ h2{
     color: rgb(252, 252, 252);
 }
 
-h2.cv{
-    color: black;
-}
-
 h3{
-    color: whitesmoke;
-    background-color: maroon;
-    border: 2px solid;
+    color: black;
+    background-color: royalblue;
+    border: 3px solid;
     text-align: center;
 
 }
@@ -33,8 +30,8 @@ p{
     color: whitesmoke;
 }
 
-ul.cv{
+ul{
     color: black;
-    background-color: brown;
+    background-color: royalblue;
     border: 3px solid;
 }
